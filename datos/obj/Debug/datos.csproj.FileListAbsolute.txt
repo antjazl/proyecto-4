@@ -1,0 +1,9 @@
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\datos\bin\Debug\datos.dll
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\datos\bin\Debug\datos.pdb
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\datos\bin\Debug\accesoDatos.dll
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\datos\bin\Debug\EntityFramework.dll
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\datos\bin\Debug\accesoDatos.pdb
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\datos\bin\Debug\EntityFramework.xml
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\datos\obj\Debug\datos.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\datos\obj\Debug\datos.dll
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\datos\obj\Debug\datos.pdb

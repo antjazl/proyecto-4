@@ -1,0 +1,11 @@
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\logica\bin\Debug\logica.dll
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\logica\bin\Debug\logica.pdb
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\logica\bin\Debug\accesoDatos.dll
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\logica\bin\Debug\datos.dll
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\logica\bin\Debug\EntityFramework.dll
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\logica\bin\Debug\accesoDatos.pdb
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\logica\bin\Debug\datos.pdb
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\logica\bin\Debug\EntityFramework.xml
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\logica\obj\Debug\logica.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\logica\obj\Debug\logica.dll
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\logica\obj\Debug\logica.pdb

@@ -1,0 +1,8 @@
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\accesoDatos\bin\Debug\accesoDatos.dll.config
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\accesoDatos\bin\Debug\accesoDatos.dll
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\accesoDatos\bin\Debug\accesoDatos.pdb
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\accesoDatos\bin\Debug\EntityFramework.dll
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\accesoDatos\bin\Debug\EntityFramework.xml
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\accesoDatos\obj\Debug\accesoDatos.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\accesoDatos\obj\Debug\accesoDatos.dll
+c:\users\david\documents\visual studio 2015\Projects\proyectoRest\accesoDatos\obj\Debug\accesoDatos.pdb
